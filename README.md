@@ -11,3 +11,4 @@ NOTE **(must be implemented)**:
 * **Time Complexity:** `O(1)` for both get() and put() operations.
 * **Eviction Policy:** When the cache reaches its capacity, the least recently used (LRU) item is evicted.
 
+<img width="558" alt="Screenshot 2024-09-24 at 07 07 23" src="https://github.com/user-attachments/assets/388c30a4-3200-48c9-92f5-db7d63ea24df">
